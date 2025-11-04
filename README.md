@@ -1,2 +1,2 @@
-# PROGRAMACI-N
+# PROGRAMACION
 Asignatura de programación
